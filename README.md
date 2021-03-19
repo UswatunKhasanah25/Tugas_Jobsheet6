@@ -2,7 +2,7 @@
 
 Navigasi dan Rute
 
-## Getting Started
+## OUTPUT IMAGE
 
 ![screenshot](image/homePage.jpeg)
 ![screenshot](image/itemPage.jpeg)
